@@ -1,0 +1,16 @@
+build/
+.vs/
+.vscode/
+
+# Visual Studio / CMake local outputs
+*.user
+*.suo
+*.pdb
+*.ilk
+*.obj
+*.exp
+*.log
+*.tlog
+*.lastbuildstate
+*.recipe
+
